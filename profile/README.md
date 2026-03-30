@@ -2,14 +2,15 @@
   Retriqs
 </h1>
 
-## 📝 Changelog
+<p align="center">
+  📝 <strong>Changelog</strong><br/>
+  Stay up to date with the latest updates and improvements:<br/><br/>
+  👉 https://retriqs.com/docs/changelog
+</p>
 
-Stay up to date with the latest updates and improvements:
-
-👉 https://retriqs.com/docs/changelog
-
-## 🌐 Links
-
-- 🌍 Website → https://retriqs.com  
-- 💬 Discord → https://discord.gg/tU8NwppUa3  
-- 🧠 Feedback → https://d3vs.featurebase.app
+<p align="center">
+  🌐 <strong>Links</strong><br/><br/>
+  🌍 Website → https://retriqs.com<br/>
+  💬 Discord → https://discord.gg/tU8NwppUa3<br/>
+  🧠 Feedback → https://d3vs.featurebase.app
+</p>
