@@ -60,6 +60,12 @@ https://retriqs.com/Retriqs-setup.exe
 - Build graph  
 - Start querying
 
+## 📝 Changelog
+
+Stay up to date with the latest updates and improvements:
+
+👉 https://retriqs.com/docs/changelog
+
 ## 🌐 Links
 
 - 🌍 Website → https://retriqs.com  
