@@ -1,5 +1,5 @@
 <h1 align="center">
-  Retriqs - Local-first GraphRAG desktop app
+  Retriqs
 </h1>
 
 ## 📝 Changelog
